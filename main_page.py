@@ -31,4 +31,7 @@ filter_param0 = st.sidebar.selectbox(
 # -----------------
 
 # --- PAGE CONTENT ---
+# st.write(pd.read_html("https://www.imperial-library.info/random"))
+# st.write(pd.read_html("https://elderscrolls.fandom.com/wiki/Books_(Skyrim)#Available_books"))
+df = pd.read_html("https://en.wikipedia.org/wiki/Minnesota")
 # --------------------

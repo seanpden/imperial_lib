@@ -7,3 +7,7 @@
 - requirements.txt
 - readme.md
   
+### Goals
+- Get tes data
+  - Different endpoints from implib
+- run analysis on data
